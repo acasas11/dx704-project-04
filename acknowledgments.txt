@@ -1,0 +1,18 @@
+DX704 Week 4 — Acknowledgments
+Date: 2025-09-29
+
+People / Discussions
+- None.
+
+External Libraries (beyond standard course stack)
+- None. (Used only pandas and scikit-learn, which are part of the standard stack for this module.)
+
+Data Sources
+- recipes.tsv, recipe-tags.tsv (provided as course materials).
+- ratings.tsv (constructed in Part 1).
+
+Generative AI Usage
+- None.
+
+Other Sources
+- DX601–DX704 example notebooks referenced as allowed.
